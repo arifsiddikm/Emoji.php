@@ -2,8 +2,6 @@
 
 Library file Emoji.php.
 
-# Contoh cara penggunaan :
-
 # Cara Encode Emoji saat insert data ke database:
 $Deskripsi1 = "Emoticon 👋";
 $Deskripsi2 = Emoji::Encode($Deskripsi1);
